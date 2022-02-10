@@ -26,3 +26,4 @@ elif score_no >40 and score_no <50 :
     print(f"Your score is {score}, you are alright together")
 else : print("Your score is " + score)
 
+input("Press ENTER to exit")
